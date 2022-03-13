@@ -1,0 +1,26 @@
+.page-header {
+  text-align: center;
+  /* background-color: aqua; */
+}
+h2 {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 100px;
+}
+body {
+  background-image: url(./vector-illustration-cartoon-mountains-flat-summer-landscape-green-hills-cartoon-mountains-flat-summer-landscape-green-112455272.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fotobir {
+  width: 100%;
+}
+.button {
+  width: 30%;
+  height: 100px;
+  margin-left: 35%;
+  margin-top: 100px;
+}
